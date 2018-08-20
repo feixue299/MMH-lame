@@ -1,7 +1,7 @@
 {
   "name": "MMH-lame",
   "summary": "lame",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/feixue299/MMH-lame",
   "license": {
     "type": "Copyright",
@@ -14,5 +14,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "vendored_frameworks": "**/lame.framework"
+  "vendored_frameworks": "**/*.framework"
 }

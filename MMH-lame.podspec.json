@@ -1,7 +1,7 @@
 {
-  "name": "MMH-lame",
-  "summary": "lame",
-  "version": "1.0.2",
+  "name": "MMHlame",
+  "summary": "MMH-lame",
+  "version": "1.0.3",
   "homepage": "https://github.com/feixue299/MMH-lame",
   "license": {
     "type": "Copyright",

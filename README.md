@@ -15,5 +15,5 @@ MMHExtension is available. To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'MMHExtension'
+pod 'MMH-lame'
 ```
